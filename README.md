@@ -1,6 +1,6 @@
 # Manufacturing-Production-Performance-Analysis
 
-I recently had the opportunity to develop a Manufacturing Review Dashboard as part of my role, focusing on key performance indicators (KPIs) such as:
+I had develop a Manufacturing Review Dashboard as part of my role, focusing on key performance indicators (KPIs) such as:
 
 Manufactured Quantity: Over 49.79 million units
 Processed Quantity: 60.02 million units
