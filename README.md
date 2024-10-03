@@ -6,6 +6,7 @@ Manufactured Quantity: Over 49.79 million units
 Processed Quantity: 60.02 million units
 Rejected Quantity: 491,023 units
 Wastage Quantity: Directly linked to rejections
+
 Problem Statement:
 The dashboard aims to address inefficiencies in manufacturing capacity by identifying discrepancies between manufactured and processed quantities, as well as analyzing rejection rates across employees and departments. This insight is crucial for optimizing processes and improving overall operational efficiency.
 
